@@ -1,0 +1,30 @@
+========== CARD ==========
+.card__name
+JINX
+YAIK
+XIMA
+
+.card__profession
+Frontend Developer
+Web Designer
+Data Analytics
+
+
+========== CARD INFO ==========
+.info__name
+JINX
+YAIK
+XIMA
+
+.info__description
+Frontend developer, I create web pages with UI/UX user 
+interface, I have years of experience and many happy 
+clients with the projects completed, contact me now.
+
+.info__button
+Follow Me
+
+.info__link
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
